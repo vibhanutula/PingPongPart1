@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    font-family: monospace;
+}
+
+h1{
+    display: inline;
+}
+
+.heading{
+    text-align: left;
+    width: 100%;
+}
+
+.instro{
+    float: right;
+}
+
+button{
+    border: 3px pink dashed;
+}
